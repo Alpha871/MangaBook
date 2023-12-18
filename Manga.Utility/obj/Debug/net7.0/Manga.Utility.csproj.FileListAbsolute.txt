@@ -1,0 +1,12 @@
+/Users/alphabah/Documents/DotNet/MangaBook/Manga.Utility/bin/Debug/net7.0/Manga.Utility.deps.json
+/Users/alphabah/Documents/DotNet/MangaBook/Manga.Utility/bin/Debug/net7.0/Manga.Utility.dll
+/Users/alphabah/Documents/DotNet/MangaBook/Manga.Utility/bin/Debug/net7.0/Manga.Utility.pdb
+/Users/alphabah/Documents/DotNet/MangaBook/Manga.Utility/obj/Debug/net7.0/Manga.Utility.csproj.AssemblyReference.cache
+/Users/alphabah/Documents/DotNet/MangaBook/Manga.Utility/obj/Debug/net7.0/Manga.Utility.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alphabah/Documents/DotNet/MangaBook/Manga.Utility/obj/Debug/net7.0/Manga.Utility.AssemblyInfoInputs.cache
+/Users/alphabah/Documents/DotNet/MangaBook/Manga.Utility/obj/Debug/net7.0/Manga.Utility.AssemblyInfo.cs
+/Users/alphabah/Documents/DotNet/MangaBook/Manga.Utility/obj/Debug/net7.0/Manga.Utility.csproj.CoreCompileInputs.cache
+/Users/alphabah/Documents/DotNet/MangaBook/Manga.Utility/obj/Debug/net7.0/Manga.Utility.dll
+/Users/alphabah/Documents/DotNet/MangaBook/Manga.Utility/obj/Debug/net7.0/refint/Manga.Utility.dll
+/Users/alphabah/Documents/DotNet/MangaBook/Manga.Utility/obj/Debug/net7.0/Manga.Utility.pdb
+/Users/alphabah/Documents/DotNet/MangaBook/Manga.Utility/obj/Debug/net7.0/ref/Manga.Utility.dll

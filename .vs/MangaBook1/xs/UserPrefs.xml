@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{9DC18C6B-6926-47DB-B79A-D19726135624}|https">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MangaBook/Views/Shared/_Layout.cshtml">
+    <Files>
+      <File FileName="MangaBook/Views/Shared/_Layout.cshtml" Line="8" Column="46" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MangaBook1" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.MangaWEB PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

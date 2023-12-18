@@ -1,0 +1,59 @@
+﻿<Properties StartupConfiguration="{9DC18C6B-6926-47DB-B79A-D19726135624}|https">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.MangaWEB PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MangaBook/Areas/Customer/Controllers/CartController.cs">
+    <Files>
+      <File FileName="Manga.DataAccess/Data/ApplicationDbContext.cs" Line="1" Column="1" />
+      <File FileName="MangaBook/Views/Shared/_Layout.cshtml" Line="83" Column="43" />
+      <File FileName="MangaBook/Views/Shared/_Layout.cshtml.css" Line="12" Column="4" />
+      <File FileName="MangaBook/ViewComponent/ShoppingCartViewComponent.cs" Line="31" Column="17" />
+      <File FileName="MangaBook/Areas/Customer/Views/Cart/Summary.cshtml" Line="1" Column="1" />
+      <File FileName="MangaBook/Areas/Customer/Views/Cart/Index.cshtml" Line="94" Column="1" />
+      <File FileName="Manga.Models/ViewModels/ShoppingCartVM.cs" Line="1" Column="1" />
+      <File FileName="Manga.Models/Models/ShoppingCart.cs" Line="1" Column="1" />
+      <File FileName="MangaBook/Views/Shared/Components/ShoppingCart/Default.cshtml" Line="5" Column="1" />
+      <File FileName="MangaBook/Areas/Customer/Controllers/CartController.cs" Line="294" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MangaBook" expanded="True">
+            <Node name="Manga.Models" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+            </Node>
+            <Node name="MangaWEB">
+              <Node name="Areas" expanded="True">
+                <Node name="Customer" expanded="True">
+                  <Node name="Controllers" expanded="True">
+                    <Node name="CartController.cs" selected="True" />
+                  </Node>
+                  <Node name="Views" expanded="True">
+                    <Node name="Cart" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="ViewComponent" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Shared" expanded="True">
+                  <Node name="Components" expanded="True">
+                    <Node name="ShoppingCart" expanded="True" />
+                  </Node>
+                  <Node name="_Layout.cshtml" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
